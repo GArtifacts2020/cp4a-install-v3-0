@@ -2,6 +2,7 @@
 
 Given below the steps to install the Cloud Pak for applications v3.0 on top of RHOCP 3.11 cluster for Business Partners by downloading the image from Partner World. 
 
+#####Note:
 The detailed and official steps about this installation is available in knowledge center at https://www.ibm.com/support/knowledgecenter/SSCSJL_3.x/install-icpa-cli.html. But this would requires your machine to connect to ENTITLED_REGISTRY (cp.icr.io).
 
 ### Step 1:  Download following parts from PartnerWorld Software Access Catalog
